@@ -1,0 +1,18 @@
+{
+	id: "ad4bf3ab-f9ac-44da-bde7-92c7eefb2583"
+	type: "player"
+	player_name: "Siglati"
+	ranks: { }
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "Siglati"
+		"ftbteams:color": "#596BFF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

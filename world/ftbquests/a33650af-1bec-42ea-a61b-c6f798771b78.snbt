@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "a33650af1bec42eaa61bc6f798771b78"
+	name: "Tunuu"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

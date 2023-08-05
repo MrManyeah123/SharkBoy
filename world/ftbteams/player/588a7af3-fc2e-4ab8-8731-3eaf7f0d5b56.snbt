@@ -1,0 +1,18 @@
+{
+	id: "588a7af3-fc2e-4ab8-8731-3eaf7f0d5b56"
+	type: "player"
+	player_name: "KinggKyyy"
+	ranks: { }
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "KinggKyyy"
+		"ftbteams:color": "#FF6359"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

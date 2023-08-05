@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "588a7af3fc2e4ab887313eaf7f0d5b56"
+	name: "KinggKyyy"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

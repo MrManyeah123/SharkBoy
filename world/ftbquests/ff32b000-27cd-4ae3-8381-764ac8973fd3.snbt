@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "ff32b00027cd4ae38381764ac8973fd3"
+	name: "Yadakono"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

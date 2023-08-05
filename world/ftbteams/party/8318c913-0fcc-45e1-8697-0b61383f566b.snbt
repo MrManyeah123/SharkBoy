@@ -1,0 +1,35 @@
+{
+	id: "8318c913-0fcc-45e1-8697-0b61383f566b"
+	type: "party"
+	owner: "a33650af-1bec-42ea-a61b-c6f798771b78"
+	ranks: {
+		ff32b000-27cd-4ae3-8381-764ac8973fd3: "member"
+		4e3fdf34-2ca2-4bd7-9922-c21f27c87ffc: "member"
+		588a7af3-fc2e-4ab8-8731-3eaf7f0d5b56: "member"
+		a33650af-1bec-42ea-a61b-c6f798771b78: "owner"
+		ad4bf3ab-f9ac-44da-bde7-92c7eefb2583: "member"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "Tunuu's Party"
+		"ftbteams:color": "#59A1FF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1690528192924L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"Tunuu\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "a33650af-1bec-42ea-a61b-c6f798771b78", date: 1690849260612L, text: "{\"color\":\"green\",\"text\":\"Invited Siglati\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1690849266058L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"Siglati\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "a33650af-1bec-42ea-a61b-c6f798771b78", date: 1690851221870L, text: "{\"color\":\"green\",\"text\":\"Invited Kai_0\"}" }
+		{ from: "a33650af-1bec-42ea-a61b-c6f798771b78", date: 1690851224070L, text: "{\"color\":\"green\",\"text\":\"Invited KinggKyyy\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1690851232522L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"KinggKyyy\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "a33650af-1bec-42ea-a61b-c6f798771b78", date: 1690851278222L, text: "{\"color\":\"green\",\"text\":\"Invited Kai_0\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1690851280622L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"Kai_0\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "a33650af-1bec-42ea-a61b-c6f798771b78", date: 1691106647542L, text: "{\"color\":\"green\",\"text\":\"Invited Yadakono\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1691106668168L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"Yadakono\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+	]
+	extra: { }
+}

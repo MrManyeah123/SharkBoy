@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "ad4bf3abf9ac44dabde792c7eefb2583"
+	name: "Siglati"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

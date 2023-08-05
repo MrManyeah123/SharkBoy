@@ -1,0 +1,24 @@
+[05Aug2023 12:35:40.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[05Aug2023 12:35:40.368] [Server thread/INFO] [stormedpanda.simplyjetpacks.SimplyJetpacks/]: Server stopping...
+[05Aug2023 12:35:40.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Aug2023 12:35:40.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Aug2023 12:35:40.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Aug2023 12:35:40.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05Aug2023 12:35:41.024] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Aug2023 12:35:41.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05Aug2023 12:35:41.038] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Aug2023 12:35:41.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05Aug2023 12:35:41.039] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Aug2023 12:35:41.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/bloodmagic:dungeon
+[05Aug2023 12:35:41.040] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[05Aug2023 12:35:41.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/compactmachines:compact_world
+[05Aug2023 12:35:41.040] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (compact_world): All chunks are saved
+[05Aug2023 12:35:41.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/appliedenergistics2:spatial_storage
+[05Aug2023 12:35:41.040] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[05Aug2023 12:35:41.137] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Aug2023 12:35:41.176] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Aug2023 12:35:41.338] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Aug2023 12:35:41.339] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[05Aug2023 12:35:41.340] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (compact_world): All chunks are saved
+[05Aug2023 12:35:41.341] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[05Aug2023 12:35:41.350] [Server thread/INFO] [FluxNetworks/]: FluxNetworkData has been unloaded
